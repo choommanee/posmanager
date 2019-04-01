@@ -1,0 +1,720 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="94172134-b47b-4825-bc30-c35cb915a50e" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/config/config.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4598">
+              <caret line="209" column="61" selection-start-line="209" selection-start-column="61" selection-end-line="209" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/config/database.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.htaccess">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/default/admin/views/products/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2046">
+              <caret line="93" column="33" selection-start-line="93" selection-start-column="33" selection-end-line="93" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/default/admin/views/header2.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/themes/default/admin/views/footer2.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/admin/ListAPI.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5984">
+              <caret line="272" column="64" selection-start-line="272" selection-start-column="64" selection-end-line="272" selection-end-column="64" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/config/routes.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="946">
+              <caret line="43" column="27" selection-start-line="43" selection-start-column="27" selection-end-line="43" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/config/rest.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/jitsuite/admin/views/header2.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>lang('no')</find>
+      <find>subtotal</find>
+      <find>updated_by</find>
+      <find>created_by</find>
+      <find>รายงานการขายจากเครื่อง POS</find>
+      <find>sales_report</find>
+      <find>admin</find>
+      <find>po-delete</find>
+      <find>is_ajax_request</find>
+      <find>version</find>
+      <find>pqFormat</find>
+      <find>invoi</find>
+      <find>deleteInvioce</find>
+      <find>view_folder</find>
+      <find>theme</find>
+      <find>Settings</find>
+      <find>get_setting</find>
+      <find>The page you are looking for can not be found</find>
+      <find>csrf_error_msg</find>
+      <find>error_404_message</find>
+      <find>error_404</find>
+      <find>show_404</find>
+      <find>csrf</find>
+      <find>validatePost</find>
+      <find>update_by</find>
+      <find>$pos</find>
+      <find>addProduct</find>
+      <find>SHOP</find>
+      <find>http://ci.dev/sma/</find>
+      <find>supplier@tecdiary.com</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>http://demo.jos180.com</replace>
+      <replace>com/api</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/dbma/js/jquery/src/jquery-ui/widgets/autocomplete.js" />
+        <option value="$PROJECT_DIR$/themes/default/admin/assets/js/invoice.js" />
+        <option value="$PROJECT_DIR$/themes/default/admin/views/Invoice/index.php" />
+        <option value="$PROJECT_DIR$/themes/default/admin/views/sales/add.php" />
+        <option value="$PROJECT_DIR$/themes/default/admin/views/Invoice/edit.php" />
+        <option value="$PROJECT_DIR$/app/controllers/admin/Purchases.php" />
+        <option value="$PROJECT_DIR$/themes/default/admin/assets/js/purchases.js" />
+        <option value="$PROJECT_DIR$/themes/default/admin/views/sma_lang.php" />
+        <option value="$PROJECT_DIR$/themes/default/admin/views/settings/index.php" />
+        <option value="$PROJECT_DIR$/app/controllers/admin/Sales.php" />
+        <option value="$PROJECT_DIR$/themes/default/admin/views/Invoice/add.php" />
+        <option value="$PROJECT_DIR$/themes/default/admin/views/reports/sale_pdf.php" />
+        <option value="$PROJECT_DIR$/app/language/thai/admin/sma_lang.php" />
+        <option value="$PROJECT_DIR$/themes/default/admin/views/reports/sales.php" />
+        <option value="$PROJECT_DIR$/themes/default/admin/views/sales/pdf.php" />
+        <option value="$PROJECT_DIR$/themes/default/admin/assets/js/core.js" />
+        <option value="$PROJECT_DIR$/app/controllers/admin/Invoice.php" />
+        <option value="$PROJECT_DIR$/themes/default/admin/views/footer.php" />
+        <option value="$PROJECT_DIR$/themes/default/admin/views/Invoice/modal_view.php" />
+        <option value="$PROJECT_DIR$/themes/default/admin/views/products/view.php" />
+        <option value="$PROJECT_DIR$/app/controllers/admin/Reports.php" />
+        <option value="$PROJECT_DIR$/themes/default/admin/views/reports/products.php" />
+        <option value="$PROJECT_DIR$/app/models/Site.php" />
+        <option value="$PROJECT_DIR$/themes/default/admin/views/Invoice/pdf.php" />
+        <option value="$PROJECT_DIR$/app/models/admin/Receipt_model.php" />
+        <option value="$PROJECT_DIR$/themes/default/admin/views/header.php" />
+        <option value="$PROJECT_DIR$/themes/default/admin/views/Receipt/index.php" />
+        <option value="$PROJECT_DIR$/app/controllers/admin/receipt.php" />
+        <option value="$PROJECT_DIR$/themes/jitsuite/admin/assets/styles/desktop.css" />
+        <option value="$PROJECT_DIR$/themes/jitsuite/admin/assets/js/desktop.js" />
+        <option value="$PROJECT_DIR$/app/helpers/site.php" />
+        <option value="$PROJECT_DIR$/app/config/autoload.php" />
+        <option value="$PROJECT_DIR$/app/core/MY_Controller.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/app/controllers/Notify.php" />
+        <option value="$PROJECT_DIR$/system/core/CodeIgniter.php" />
+        <option value="$PROJECT_DIR$/themes/jitsuite/admin/views/Invoice/add.php" />
+        <option value="$PROJECT_DIR$/app/models/admin/Invoice_model.php" />
+        <option value="$PROJECT_DIR$/app/models/admin/menu_model.php" />
+        <option value="$PROJECT_DIR$/app/helpers/site_helper.php" />
+        <option value="$PROJECT_DIR$/app/controllers/admin/menu.php" />
+        <option value="$PROJECT_DIR$/themes/jitsuite/admin/views/menu/index.php" />
+        <option value="$PROJECT_DIR$/themes/jitsuite/admin/views/footer.php" />
+        <option value="$PROJECT_DIR$/themes/jitsuite/admin/views/dashboard.php" />
+        <option value="$PROJECT_DIR$/themes/jitsuite/admin/assets/styles/start.css" />
+        <option value="$PROJECT_DIR$/themes/jitsuite/admin/assets/js/start.js" />
+        <option value="$PROJECT_DIR$/themes/jitsuite/admin/views/header.php" />
+        <option value="$PROJECT_DIR$/app/controllers/api/v1/list.php" />
+        <option value="$PROJECT_DIR$/app/controllers/api/v1/ListAPI.php" />
+        <option value="$PROJECT_DIR$/app/config/routes.php" />
+        <option value="$PROJECT_DIR$/app/controllers/admin/ListAPI.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-barcode" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-validator" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-stdlib" />
+      <path value="$PROJECT_DIR$/vendor/mike42/escpos-php" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-servicemanager" />
+      <path value="$PROJECT_DIR$/vendor/mike42/escpos-php-bk" />
+      <path value="$PROJECT_DIR$/vendor/facebook/graph-sdk" />
+      <path value="$PROJECT_DIR$/vendor/phpmailer/phpmailer" />
+      <path value="$PROJECT_DIR$/vendor/mpdf/mpdf" />
+      <path value="$PROJECT_DIR$/vendor/aferrandini/phpqrcode" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/setasign/fpdi" />
+      <path value="$PROJECT_DIR$/vendor/stripe/stripe-php" />
+      <path value="$PROJECT_DIR$/vendor/dompdf/dompdf" />
+      <path value="$PROJECT_DIR$/vendor/container-interop/container-interop" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/phenx/php-svg-lib" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/paypal/rest-api-sdk-php" />
+      <path value="$PROJECT_DIR$/vendor/hybridauth/hybridauth" />
+      <path value="$PROJECT_DIR$/vendor/phenx/php-font-lib" />
+      <path value="$PROJECT_DIR$/vendor/paypal/merchant-sdk-php" />
+      <path value="$PROJECT_DIR$/vendor/paypal/sdk-core-php" />
+      <path value="$PROJECT_DIR$/vendor/phpoffice/phpexcel" />
+      <path value="$PROJECT_DIR$/vendor/sabberworm/php-css-parser" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-120" />
+    <option name="y" value="27" />
+    <option name="width" value="1938" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="demo.jos180.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo.jos180.com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo.jos180.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo.jos180.com" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo.jos180.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo.jos180.com" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo.jos180.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo.jos180.com" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo.jos180.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo.jos180.com" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo.jos180.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo.jos180.com" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo.jos180.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo.jos180.com" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="v1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo.jos180.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo.jos180.com" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo.jos180.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo.jos180.com" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="default" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo.jos180.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo.jos180.com" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="default" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo.jos180.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo.jos180.com" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="default" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../jitsuite" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\htdocs\demo.jos180.com\themes\default\admin\views" />
+      <recent name="$PROJECT_DIR$/app/models/admin" />
+      <recent name="$PROJECT_DIR$/app/controllers/admin" />
+      <recent name="$PROJECT_DIR$/themes/jitsuite/admin/assets/styles" />
+      <recent name="$PROJECT_DIR$/themes" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Server\htdocs\demo.jos180.com\app\controllers\admin" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94172134-b47b-4825-bc30-c35cb915a50e" name="Default" comment="" />
+      <created>1510584553777</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1510584553777</updated>
+      <workItem from="1510584563267" duration="1117000" />
+      <workItem from="1510785980710" duration="730000" />
+      <workItem from="1516906389448" duration="254000" />
+      <workItem from="1517587322195" duration="4021000" />
+      <workItem from="1519617246876" duration="5073000" />
+      <workItem from="1519630068839" duration="3424000" />
+      <workItem from="1520578954275" duration="6861000" />
+      <workItem from="1520587455032" duration="1767000" />
+      <workItem from="1520875800035" duration="15539000" />
+      <workItem from="1521012819640" duration="4499000" />
+      <workItem from="1521084304295" duration="2644000" />
+      <workItem from="1521255163903" duration="7830000" />
+      <workItem from="1521428859446" duration="7307000" />
+      <workItem from="1521505856615" duration="2829000" />
+      <workItem from="1521972919787" duration="514000" />
+      <workItem from="1522006664538" duration="1735000" />
+      <workItem from="1522483040366" duration="2462000" />
+      <workItem from="1522580235834" duration="52000" />
+      <workItem from="1522596151398" duration="572000" />
+      <workItem from="1522600901579" duration="6028000" />
+      <workItem from="1522710142947" duration="9193000" />
+      <workItem from="1522822988452" duration="3219000" />
+      <workItem from="1522863034476" duration="1945000" />
+      <workItem from="1522891660129" duration="11255000" />
+      <workItem from="1523209444348" duration="21517000" />
+      <workItem from="1546811730615" duration="9938000" />
+      <workItem from="1551950416909" duration="1041000" />
+      <workItem from="1551979420460" duration="598000" />
+      <workItem from="1552017199614" duration="599000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="134563000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-3" y="0" width="1294" height="1408" extended-state="7" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12722853" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="File Transfer" order="12" visible="true" weight="0.32936078" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Structure" order="4" side_tool="true" visible="true" weight="0.10696921" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/helpers/MY_form_helper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="30" column="37" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/helpers/pagination_helper.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/helpers/pos_helper.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/helpers/shop_helper.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/autoload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="57" column="1" selection-start-line="57" selection-start-column="1" selection-end-line="57" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/core/MY_Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="936">
+          <caret line="118" column="89" selection-start-line="118" selection-start-column="89" selection-end-line="118" selection-end-column="89" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/jitsuite/admin/views/Invoice/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4200">
+          <caret line="210" column="72" selection-start-line="210" selection-start-column="63" selection-end-line="210" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/info.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/language/english/admin/sma_lang.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11000">
+          <caret line="550" column="24" selection-start-line="550" selection-start-column="7" selection-end-line="550" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/admin/Settings_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-562">
+          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/admin/System_settings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2875">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/Notify.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/core/Exceptions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="118" column="28" selection-start-line="118" selection-start-column="20" selection-end-line="118" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/core/CodeIgniter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="404" lean-forward="true" selection-start-line="404" selection-end-line="404" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/admin/Products.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17300">
+          <caret line="865" column="20" selection-start-line="865" selection-start-column="20" selection-end-line="865" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/jitsuite/admin/views/Invoice/add.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2860">
+          <caret line="143" column="16" selection-start-line="143" selection-start-column="16" selection-end-line="144" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/admin/Invoice.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3580">
+          <caret line="179" column="12" selection-start-line="179" selection-start-column="12" selection-end-line="179" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/admin/Menu_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="35" selection-start-line="23" selection-start-column="4" selection-end-line="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/admin/Products_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5840">
+          <caret line="292" column="45" selection-start-line="292" selection-start-column="39" selection-end-line="292" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/admin/Invoice_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1000">
+          <caret line="50" column="12" selection-start-line="50" selection-start-column="12" selection-end-line="50" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/admin/Menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1334">
+          <caret line="94" column="41" lean-forward="true" selection-start-line="94" selection-start-column="41" selection-end-line="94" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/helpers/site_helper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="33" column="32" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-840">
+          <caret line="205" lean-forward="true" selection-start-line="205" selection-end-line="205" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/Social_auth.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1961">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/constants.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="26" column="56" lean-forward="true" selection-start-line="26" selection-start-column="56" selection-end-line="26" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/memcached.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/migration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-603" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/jitsuite/admin/assets/js/desktop.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="858">
+          <caret line="39" column="4" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/jitsuite/admin/views/Invoice/pdf.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3630">
+          <caret line="165" column="32" selection-start-line="165" selection-start-column="32" selection-end-line="165" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/jitsuite/admin/assets/js/start.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/jitsuite/admin/assets/styles/start.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/jitsuite/admin/views/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1870">
+          <caret line="85" column="35" selection-start-line="85" selection-start-column="35" selection-end-line="85" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/jitsuite/admin/views/dashboard.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/jitsuite/admin/views/menu/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="590">
+          <caret line="196" column="29" selection-start-line="196" selection-start-column="26" selection-end-line="196" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/database.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/Customers.php" />
+    <entry file="file://$PROJECT_DIR$/themes/jitsuite/admin/views/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="167" column="84" selection-start-line="167" selection-start-column="75" selection-end-line="167" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/Main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="28" column="66" selection-start-line="28" selection-start-column="66" selection-end-line="28" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/api/v1/Companies.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/admin/Cron.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="32" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4598">
+          <caret line="209" column="61" selection-start-line="209" selection-start-column="61" selection-end-line="209" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/database.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/default/admin/views/products/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2046">
+          <caret line="93" column="33" selection-start-line="93" selection-start-column="33" selection-end-line="93" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/default/admin/views/header2.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/admin/ListAPI.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5984">
+          <caret line="272" column="64" selection-start-line="272" selection-start-column="64" selection-end-line="272" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="946">
+          <caret line="43" column="27" selection-start-line="43" selection-start-column="27" selection-end-line="43" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/rest.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/jitsuite/admin/views/header2.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/default/admin/views/footer2.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>

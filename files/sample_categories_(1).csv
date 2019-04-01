@@ -1,0 +1,68 @@
+Code,Name,Image name,Parent Category Code (optional)
+0001,Coffe Grinder,c1.png,
+0002,Coffee Blender,c1.png,C1
+0003,Coffee Maker,,
+      00030001,      Espresso,,0003
+          000300010001,          Meter,,0003
+          000300010002,          MyPressi,,0003
+          000300010003,          KALERM,,0003
+          000300010004,          Cafflano,,0003
+0004,Dripper,,
+0005,Decanter,,
+0006,Kettle,,
+0007,Drip Stand,,
+0008,Nel Drip,,
+0009,Consumable,,
+0010,Scale,,
+0011,Grinder,,
+0012,French Press,,
+      00120001,      French Press Coffee,,0012
+      00120002,      French Press Tea,,0012
+0013,Syphon,,
+0014,Electric,,
+0015,Cold Drip,,
+0016,Cold Brewed,,
+0017,Moka Pot,,
+0018,Roasts,,
+0019,Tea Pot,,
+0020,Glass / Cup,,
+      00200001,      Loveramics,,0020
+      00200002,      Dinfi,,0020
+      00200003,      ANCAP,,0020
+      00200004,      Hario,,0020
+0021,Pitcher,,
+0022,Milk Creamer,,
+0023,Pasts,,
+      00230001,      Past Drip,,0023
+      00230002,      Past Syphon,,0023
+      00230003,      Past Cold Drip,,0023
+      00230004,      Past Tea,,0023
+      00230005,      Past Machine,,0023
+          002300050001,          Past Conti,,0023
+          002300050002,          Past Kalerm,,0023
+      00230006,      Past Mazzer,,0023
+      00230007,      Past Hamilton,,0023
+0024,Accessories,,
+0025,Coffee,,
+      00250001,      Nex,,0025
+          002500010001,          Espresso,,0025
+          002500010002,          Single Origin,,0025
+          002500010003,           Ninety Plus,,0025
+          002500010004,          Level Up,,0025
+      00250002,      Paradiso,,0025
+0026,Green Bean,,
+0027,Tea,,
+0028,Davinci,,
+      00280001,      Syrup,,0028
+          002800010001,          Coffee,,0028
+          002800010002,          Italian Soda,,0028
+      00280002,      Sauce,,0028
+      00280003,      Smoothies,,0028
+      00280004,      Mixed Powder,,0028
+0029,Topping,,
+0030,Detergent,,
+0031,Book,,
+0032,Miscellenous,,
+0034,Set,,
+0035,OTHER,,
+0036,Beverage Coffee,,
